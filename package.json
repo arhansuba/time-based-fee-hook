@@ -1,0 +1,29 @@
+{
+  "name": "time-based-fee-hook",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "truffle": "^5.11.5"
+  },
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    
+      
+      "@balancer-labs/v3-interfaces": "^1.0.0",
+        "@balancer-labs/v3-solidity-utils": "^1.0.0",
+        "@balancer-labs/v3-vault": "^1.0.0"
+      
+  }
+}
